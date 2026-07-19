@@ -1,0 +1,9 @@
+.build/
+build/
+.swiftpm/
+.DS_Store
+*.wav
+*.bin
+.env
+.env.*
+xcuserdata/
